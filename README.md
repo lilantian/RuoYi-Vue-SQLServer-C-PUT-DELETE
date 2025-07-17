@@ -2,7 +2,7 @@
         # RuoYi-Vue-SQLServer-C
         若依分离版-SQLServer数据源
 	<img alt="logo" src="https://oscimg.oschina.net/oscnet/up-d3d0a9303e11d522a06cd263f3079027715.png"><br/>
-        基于v3.9.0版本，将put与delete替换为post
+基于v3.9.0版本，将put与delete替换为post
 </p>
 <p>
    始于若依3.8.2分离版进行的SQLServer改造，测试无误用于生产环境，保持同步更新 <br/>
